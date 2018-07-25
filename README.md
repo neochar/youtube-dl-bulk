@@ -5,4 +5,4 @@ Run:
 `python main.py file-with-urls.txt`
 
 Here is asciicast of how it was developed:
-[![asciicast]](http://asciinema.ga/?castname=youtube-dl-bulk)
+[asciicast](http://asciinema.ga/?castname=youtube-dl-bulk)
