@@ -5,15 +5,14 @@
 # For every url we run youtube-dl and download it to corresponding folder.
 # After that we implement also playlist parsing and download.
 
-# import sys
+import sys
 import os
 from subprocess import Popen
 
 
 if __name__ == '__main__':
 
-    # args = sys.argv[1:]
-    args = ['data/ambient-urls-test.txt']
+    args = sys.argv[1:]
 
     processed = []
     procs = []
